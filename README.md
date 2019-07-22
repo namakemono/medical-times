@@ -7,7 +7,7 @@
 - [乳がん]()
 - [肺がん]()
 - [膵臓がん](https://github.com/namakemono/medical-times/issues?q=is%3Aissue+is%3Aopen+label%3A%E8%86%B5%E8%87%93%E3%81%8C%E3%82%93)
-
+- [電子カルテ](https://github.com/namakemono/medical-times/issues?q=is%3Aissue+is%3Aopen+label%3AEHR)
 
 ## 部位別
 
